@@ -1,0 +1,17 @@
+body {
+  background-color: #8EA8C3; 
+  padding-top: 100px;
+}
+
+h1 {
+  color: #1D2F49; 
+}
+
+.container {
+  max-width: 500px;
+  background-color: white; 
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  color: black;
+}
